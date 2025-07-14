@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "groups" > 2-groups
+groups
