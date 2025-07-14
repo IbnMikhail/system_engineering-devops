@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "chmod 751 hello" > 9-John_Doe
+chmod 751 hello
